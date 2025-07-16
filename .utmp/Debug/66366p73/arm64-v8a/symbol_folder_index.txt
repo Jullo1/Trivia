@@ -1,0 +1,1 @@
+C:\Users\Julian\Documents\Projects\Unity\Trivia\Library\PramData\AndroidApplicationController\Cache\com.JulianLerej.Trivias\gradle-project\unityLibrary\build\intermediates\cxx\Debug\66366p73\obj\arm64-v8a
